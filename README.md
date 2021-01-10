@@ -7,13 +7,13 @@
 -  **Email:** i170321@nu.edu.pk
 
 ## Project/Course Description
-Introduction to Machine Learning 
-We have learned the basics of Machine learning in this course. The topics include:
+# Introduction to Machine Learning 
+ We have learned the basics of Machine learning in this course. The topics include:
 - Probability Review
 - Linear Algebra Review
 - Data Preparation
 - Linear Regression
 - Logistic Regression
 - Regularization
-- Decisions Trees
+- Decision Trees
 - Unsupervised Learning 
