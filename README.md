@@ -20,8 +20,11 @@
 
 # Course Requirements
 Some of the python libraries description we used in this course is as follows:
-- Numpy
-NumPy is the fundamental package for scientific computing with Python. It mostly used for solving matrix problems.
+- Numpy : It is the fundamental package for scientific computing with Python. It mostly used for solving matrix problems.
+- Pandas : It is the most popular machine learning library written in python, for data manipulation and analysis.
+- Matplotlib : It is a great library for Data Visualization.
+- SciKit-Learn : A library that provides a range of Supervised and Unsupervised Learning Algorithms. This library mainly focused on model building.
+- NLTK : Natural Language Toolkit (NLTK) is a library for NLP (Natural Langue Processing).
 
 # Certification
 ![](Img/certificate.png)
