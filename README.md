@@ -6,8 +6,8 @@
 -  **Surname:** Saqib
 -  **Email:** i170321@nu.edu.pk
 
-## Project/Course Description
-# Introduction to Machine Learning 
+# Project/Course Description
+## Introduction to Machine Learning 
  We have learned the basics of Machine learning in this course. The topics include:
 - Probability Review
 - Linear Algebra Review
@@ -17,3 +17,10 @@
 - Regularization
 - Decision Trees
 - Unsupervised Learning 
+
+# Course Requirements
+Some of the python libraries description we used in this course is as follows:
+- 
+
+# Certification
+![](Img/certificate.png)
