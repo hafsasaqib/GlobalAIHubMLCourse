@@ -1,5 +1,5 @@
 # GlobalAIHubMLCourse
-![](img/logo.png)
+![](Img/logo.png)
 
 -  **Course Date:** 4th Jan, 2021 - 8th Jan, 2021
 -  **Name:**  Hafsa
