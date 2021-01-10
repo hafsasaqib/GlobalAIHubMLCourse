@@ -8,7 +8,7 @@
 
 # Project/Course Description
 ## Introduction to Machine Learning 
- We have learned the basics of Machine learning in this course. The topics include:
+ We have learned the basics of Machine Learning in this course. The topics include:
 - Probability Review
 - Linear Algebra Review
 - Data Preparation
@@ -20,7 +20,8 @@
 
 # Course Requirements
 Some of the python libraries description we used in this course is as follows:
-- 
+- Numpy
+NumPy is the fundamental package for scientific computing with Python. It mostly used for solving matrix problems.
 
 # Certification
 ![](Img/certificate.png)
