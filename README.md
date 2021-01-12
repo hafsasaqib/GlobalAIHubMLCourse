@@ -27,4 +27,4 @@ Some of the python libraries description we used in this course is as follows:
 - NLTK : Natural Language Toolkit (NLTK) is a library for NLP (Natural Langue Processing).
 
 # Certification
-![](Img/certificate.png)
+![](Img/certificate.jpeg)
